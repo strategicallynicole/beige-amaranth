@@ -299,7 +299,7 @@ sections:
     actions:
       - label: Button
         url: /pricing
-        style: primary
+        style: secondary
     actions_position: bottom
     align: center
     padding_top: large
